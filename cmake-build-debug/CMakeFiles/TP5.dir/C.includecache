@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/TP5/exercices.c
+tableaux.h
+C:/Users/User/CLionProjects/TP5/tableaux.h
+stdio.h
+C:/Users/User/CLionProjects/TP5/stdio.h
+structures.h
+C:/Users/User/CLionProjects/TP5/structures.h
+
+C:/Users/User/CLionProjects/TP5/structures.h
+
+C:/Users/User/CLionProjects/TP5/tableaux.h
+
